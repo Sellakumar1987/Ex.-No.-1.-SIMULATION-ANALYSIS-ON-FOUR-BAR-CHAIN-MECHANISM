@@ -53,10 +53,10 @@
 
 
 ## Output:
-
-
-### Name:
-### Register Number: 
-
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149366776/b7161476-e61c-47cc-ba01-5494c3def43b)
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149366776/d8f9d51a-fa21-42ca-a5f2-d98a1e0fb751)
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149366776/c5fca503-3e28-4a8a-8869-97fdbf91a630)
+### Name:vedagiri indu sree
+### Register Number: 23004520
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
